@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **hrishikasamani/hrishikasamani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=30&duration=5008&pause=1000&color=E29BF7&center=true&vCenter=true&multiline=true&width=435&lines=Hi!+I+am+Hrishika;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=30&duration=5008&pause=1000&color=E29BF7&multiline=true&width=435&lines=Hi!+I+am+Hrishika;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
