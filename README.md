@@ -3,4 +3,4 @@
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hrishikasamani&show_icons=true&theme=gotham" alt="hrishikasamani" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hrishikasamani&show_icons=true&theme=tokyonight" alt="hrishikasamani" />
