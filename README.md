@@ -16,11 +16,6 @@
 </p>
 
 
-## 🏆 Github Profile Trophies
-
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=hrishikasamani&margin-w=15&column=9&theme=tokyonight&no-frame=true"/>
-
-
 ## 📲 Connect with me:
 
 <p align="left">
